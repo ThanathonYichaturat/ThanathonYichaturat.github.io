@@ -1,4 +1,3 @@
-
 # Education
 ---
 Kasetsart University (2022 - 2025)<br>
