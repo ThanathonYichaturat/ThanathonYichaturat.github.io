@@ -26,7 +26,6 @@ to 18 years.
 ---
 ## Survey and Data Analyst at Buddy CU Clinic, Center of Excellence for Pediatric Infectious Diseases and Vaccines, Faculty of Medicine, Chulalongkorn University (_January 2025 - April 2026_)
 
-[![PDF](https://img.shields.io/badge/PDF-CU%20First%20Poster-blue?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://adisakdadjam.github.io/pdf/CU%20First%20Poster.pdf)
 [![PDF](https://img.shields.io/badge/PDF-CU%20Second%20Report-blue?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://adisakdadjam.github.io/pdf/CU%20Second%20Report.pdf)
 
 - **Assessing Youth Knowledge and Understanding of Sexual Health**—A survey was conducted among youth aged 15–24
@@ -41,16 +40,16 @@ of condoms during sexual intercourse, employing both descriptive statistics and 
 ---
 # Academic Projects
 ---
-## A Comparison of Test Statistics for the Equality of Covariance Matrices in High-Dimensional Data and an Application to Microarray Data
 
-[![PDF](https://img.shields.io/badge/PDF-Paper-orange?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://adisakdadjam.github.io/pdf/Paper.pdf)
-[![PDF](https://img.shields.io/badge/PDF-NovaSci%20Poster-green?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://adisakdadjam.github.io/pdf/NovaSci%20Poster.pdf)
+## Predicting E-Cigarette Use Among Thai Youth Using Machine Learning: The Role of Mental Health and Risk Behaviors
 
-- Simulated high-dimensional multivariate normal data under five covariance structures using Python.<br>
-- Compare performance of five test statistics for testing the equality of covariance matrices, evaluated based on their
-ability to control the type I error rate and their power.<br>
-- Calculate the test statistics that are able to control type I error rate using the gene expression dataset of glioma samples obtained from the NCBI Gene Expression Omnibus (GEO), with a total of 24785 variables and a sample size of 180,
-divided into 4 groups.<br>
+[![PDF](https://img.shields.io/badge/PDF-Paper-orange?style=flat&logo=adobe-acrobat-reader&logoColor=white)](./project/Paper_ALL_Sirinya.pdf)
+
+[![PDF](https://img.shields.io/badge/PDF-Poster-green?style=flat&logo=adobe-acrobat-reader&logoColor=white)](./project/Poster_Final.pdf)
+
+- Evaluate the performance across five machine learning models.<br>
+- Compare performance of five machine learning models for detecting E-cigarttes User.<br>
+- Identified key factors associated with e-cigarette use among Thai youth.<br>
 - Prepared the results in the form of a full report, an English research article, and a poster for the NovaSciKU 2026.<br>
 
 ![NovaSci Poster](assets/Poster_Novasic_KU60%20(1).png)
