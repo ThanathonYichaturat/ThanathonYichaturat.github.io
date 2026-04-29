@@ -53,13 +53,9 @@ of condoms during sexual intercourse, employing both descriptive statistics and 
 
 [![PDF](https://img.shields.io/badge/PDF-Medical%20Poster-red?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://adisakdadjam.github.io/pdf/Medical%20Poster.pdf)
 
-- Analyzed time-to-event data among people living with HIV initiating antiretroviral therapy (ART) in Thailand with a
-sample size of 49488 from 2021 to 2022.<br>
-- Estimated survival probability in Stata using Kaplan–Meier curves and log-rank tests to compare survival probabilities
-across clinical characteristics.<br>
-- Refined the Cox regression model by applying a stratified Cox proportional hazards approach to identify factors
-associated with mortality risk among people living with HIV initiating antiretroviral therapy (ART) in Thailand,
-achieving 82.25% AUC.<br>
-- Prepared the results as a poster presentation for a medical statistics class.<br>
+- Applied and compared Poisson and Negative Binomial regression models to address overdispersion and improve model accuracy.<br>
+- Analyzed temporal and regional patterns using time series techniques to uncover seasonal trends and risk disparities.<br>
+- Translated complex analytical findings into actionable insights to support data-driven public health decision-making.<br>
+- Conducted advanced statistical analysis on large-scale public health data to identify key mortality risk factors..<br>
 
 ![Final Medical Project](assets/Final_Med_Project.png)
