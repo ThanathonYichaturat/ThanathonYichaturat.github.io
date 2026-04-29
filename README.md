@@ -39,7 +39,6 @@ of condoms during sexual intercourse, employing both descriptive statistics and 
 ## Predicting E-Cigarette Use Among Thai Youth Using Machine Learning: The Role of Mental Health and Risk Behaviors
 
 [![PDF](https://img.shields.io/badge/PDF-Paper-orange?style=flat&logo=adobe-acrobat-reader&logoColor=white)](./project/Paper_ALL_Sirinya.pdf)
-
 [![PDF](https://img.shields.io/badge/PDF-Poster-green?style=flat&logo=adobe-acrobat-reader&logoColor=white)](./project/Poster_Final.pdf)
 
 - Evaluate the performance across five machine learning models.<br>
@@ -52,7 +51,7 @@ of condoms during sexual intercourse, employing both descriptive statistics and 
 ---
 ## Factor Association of Mortality Risk Among People Living with HIV Antiretroviral Therapy Initiation in Thailand: A Stratified Cox Proportional Hazards Model
 
-[![PDF](https://img.shields.io/badge/PDF-Medical%20Report-red?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://adisakdadjam.github.io/pdf/Medical%20Report.pdf)<\a>
+[![PDF](https://img.shields.io/badge/PDF-Medical%20Report-red?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://adisakdadjam.github.io/pdf/Medical%20Report.pdf)
 [![PDF](https://img.shields.io/badge/PDF-Medical%20Poster-red?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://adisakdadjam.github.io/pdf/Medical%20Poster.pdf)
 
 - Analyzed time-to-event data among people living with HIV initiating antiretroviral therapy (ART) in Thailand with a
