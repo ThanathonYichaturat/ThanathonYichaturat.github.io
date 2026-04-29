@@ -51,7 +51,6 @@ of condoms during sexual intercourse, employing both descriptive statistics and 
 ---
 ## Factor Association of Mortality Risk Among People Living with HIV Antiretroviral Therapy Initiation in Thailand: A Stratified Cox Proportional Hazards Model
 
-[![PDF](https://img.shields.io/badge/PDF-Medical%20Report-red?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://adisakdadjam.github.io/pdf/Medical%20Report.pdf)
 [![PDF](https://img.shields.io/badge/PDF-Medical%20Poster-red?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://adisakdadjam.github.io/pdf/Medical%20Poster.pdf)
 
 - Analyzed time-to-event data among people living with HIV initiating antiretroviral therapy (ART) in Thailand with a
