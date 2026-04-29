@@ -1,5 +1,4 @@
-# ThanathonYichaturat.github.io
-Portfolio
+
 # Education
 ---
 Kasetsart University (2022 - 2025)<br>
