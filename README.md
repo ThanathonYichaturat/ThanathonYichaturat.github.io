@@ -39,7 +39,7 @@ of condoms during sexual intercourse, employing both descriptive statistics and 
 ## Predicting E-Cigarette Use Among Thai Youth Using Machine Learning: The Role of Mental Health and Risk Behaviors
 
 [![PDF](https://img.shields.io/badge/PDF-Paper-orange?style=flat&logo=adobe-acrobat-reader&logoColor=white)](./project/Paper_ALL_Sirinya.pdf)
-[![PDF](https://img.shields.io/badge/PDF-Poster-green?style=flat&logo=adobe-acrobat-reader&logoColor=white)](./project/Poster_Final.pdf)
+[![PDF](https://img.shields.io/badge/PDF-Poster-green?style=flat&logo=adobe-acrobat-reader&logoColor=white)](./project/Poster_NovaSci.pdf)
 
 - Evaluate the performance across five machine learning models.<br>
 - Compare performance of five machine learning models and Three Imbalance methods for detecting E-cigarttes User.<br>
