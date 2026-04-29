@@ -52,7 +52,7 @@ of condoms during sexual intercourse, employing both descriptive statistics and 
 - Identified key factors associated with e-cigarette use among Thai youth.<br>
 - Prepared the results in the form of a full report, an English research article, and a poster for the NovaSciKU 2026.<br>
 
-![NovaSci Poster](assets/Poster_Novasic_KU60%20(1).png)
+![NovaSci Poster](./project/Poster_NovaSci.png)
 
 ---
 ## Factor Association of Mortality Risk Among People Living with HIV Antiretroviral Therapy Initiation in Thailand: A Stratified Cox Proportional Hazards Model
