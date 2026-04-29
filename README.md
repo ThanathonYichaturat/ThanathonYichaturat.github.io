@@ -48,7 +48,7 @@ of condoms during sexual intercourse, employing both descriptive statistics and 
 [![PDF](https://img.shields.io/badge/PDF-Poster-green?style=flat&logo=adobe-acrobat-reader&logoColor=white)](./project/Poster_Final.pdf)
 
 - Evaluate the performance across five machine learning models.<br>
-- Compare performance of five machine learning models for detecting E-cigarttes User.<br>
+- Compare performance of five machine learning models and Three Imbalance methods for detecting E-cigarttes User.<br>
 - Identified key factors associated with e-cigarette use among Thai youth.<br>
 - Prepared the results in the form of a full report, an English research article, and a poster for the NovaSciKU 2026.<br>
 
