@@ -28,14 +28,9 @@ to 18 years.
 
 [![PDF](https://img.shields.io/badge/PDF-CU%20Second%20Report-blue?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://adisakdadjam.github.io/pdf/CU%20Second%20Report.pdf)
 
-- **Assessing Youth Knowledge and Understanding of Sexual Health**—A survey was conducted among youth aged 15–24
-years from Suankularb Wittayalai School and Kasetsart University via Google Forms. The results were utilized to
-develop targeted educational materials and youth engagement strategies.
 - **A Survey of Adolescent and Youth Perspectives on Condom Use**—A survey was conducted via Google Forms, targeting
 youth aged 15–24 years in Bangkok. The data was analyzed using Stata to identify factors contributing to the non-use
 of condoms during sexual intercourse, employing both descriptive statistics and Chi-square tests.
-
-![KU Poster](assets/KU%2060x160.png)
 
 ---
 # Academic Projects
