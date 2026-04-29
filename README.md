@@ -51,7 +51,7 @@ of condoms during sexual intercourse, employing both descriptive statistics and 
 ---
 ## Factor Association of Mortality Risk Among People Living with HIV Antiretroviral Therapy Initiation in Thailand: A Stratified Cox Proportional Hazards Model
 
-[![PDF](https://img.shields.io/badge/PDF-Poster-green?style=flat&logo=adobe-acrobat-reader&logoColor=white)](./project/Poster_Final.pdf)
+[![PDF](https://img.shields.io/badge/PDF-Poster-green?style=flat&logo=adobe-acrobat-reader&logoColor=white)](./project/Poster%20Covid%20Final.pdf)
 
 - Applied and compared Poisson and Negative Binomial regression models to address overdispersion and improve model accuracy.<br>
 - Analyzed temporal and regional patterns using time series techniques to uncover seasonal trends and risk disparities.<br>
