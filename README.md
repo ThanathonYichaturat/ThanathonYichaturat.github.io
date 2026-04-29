@@ -21,7 +21,7 @@ using descriptive statistics, comparing outpatient (OPD) and inpatient (IPD) rec
 univariate and stepwise multivariate logistic regression, to assess predictors of disease severity among patients aged up
 to 18 years.
 
-![Certificate](assets/Certificate.png)
+![Certificate](./certificate/Certificate_Trainee.jpeg)
 
 ---
 ## Survey and Data Analyst at Buddy CU Clinic, Center of Excellence for Pediatric Infectious Diseases and Vaccines, Faculty of Medicine, Chulalongkorn University (_January 2025 - April 2026_)
