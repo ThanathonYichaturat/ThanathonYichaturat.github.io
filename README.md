@@ -7,9 +7,10 @@ Cumulative GPA: 3.52/4.00 <br>
 ---
 # Skills
 ---
-- **Data Science:** Statistical Modeling and Analysis, Data Visualization, Data Wrangling
+- **Data Science:** Statistical Modeling and Analysis, Data Visualization, Data Wrangling, Machine Learning
 - **Programming:** Python, R, Stata, Minitab, SPSS, Microsoft Excel
 - **Soft Skills:** Adaptability, Analytical Thinking, Collaboration, Communication, Problem-Solving
+- **Language:** Thai(Native), English(intermidiate), Chinese
 
 ---
 # Work Experience
