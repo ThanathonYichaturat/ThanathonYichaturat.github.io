@@ -52,7 +52,7 @@ of condoms during sexual intercourse, employing both descriptive statistics and 
 ![NovaSci Poster](./project/Poster_NovaSci.png)
 
 ---
-## Factor Association of Mortality Risk Among People Living with HIV Antiretroviral Therapy Initiation in Thailand: A Stratified Cox Proportional Hazards Model
+## Evaluating COVID-19 Death Trends and Regional Relative Risks using Negative Binomial Regression
 
 [![PDF](https://img.shields.io/badge/PDF-Poster-green?style=flat&logo=adobe-acrobat-reader&logoColor=white)](./project/Poster%20Covid%20Final.pdf)
 
